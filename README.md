@@ -4,7 +4,7 @@
 
 
 <p align="center">
-<a  href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=3sslara@gmail.com"  target="_blank"><img  src="https://img.shields.io/badge/-Email-D02929?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a  href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=kaarlara.contacto@gmail.com"  target="_blank"><img  src="https://img.shields.io/badge/-Email-D02929?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a  href="https://www.linkedin.com/in/kaarlarax/"  target="_blank"><img  src="https://img.shields.io/badge/-LinkedIn-D02929?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a  href="https://www.instagram.com/kaarlarax/"  target="_blank"><img  src="https://img.shields.io/badge/-Instagram-D02929?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a  href="https://www.youtube.com/@KaarLarax"  target="_blank"><img  src="https://img.shields.io/badge/YouTube-D02929?style=for-the-badge&logo=youtube&logoColor=white"></a>

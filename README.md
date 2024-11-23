@@ -16,11 +16,9 @@
 <ul>
   <li>🗯️ 20 years</li> 
   <li>🇲🇽 Mexican</li>
-  <li>🇺🇸 Ex-Microsoft Explorer and SWE Intern</li>
-  <li>👩🏻‍🏫 MLSA (Microsoft Learn Student Ambassador)</li>
   <li>👩🏻‍💻 Competitive Programmer</li>
   <ul> 
-    <li>OVI 2019🥈/2020🥇 | OMI 2019/2020🥉 | EGOI 2021</li>
+    <!--li>OVI 2019🥈/2020🥇 | OMI 2019/2020🥉 | EGOI 2021</li-->
   </ul>
   <li>👩🏻‍🏫 Experience teaching programming to different students and teacher training </li>
   <li>📱 TechLover</li>

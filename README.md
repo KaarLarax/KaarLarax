@@ -1,8 +1,6 @@
 <h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px"> Hey!, it's Carlos Lara </h1>
 <h3 aling="center">Computer Systems Engineering | Love learning new things <img src="https://thumbs.gfycat.com/AcrobaticMatureGazelle.webp" alt="computer" width="35"> </h3>
 
-
-
 <p align="center">
 <a  href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=kaarlara.contacto@gmail.com"  target="_blank"><img  src="https://img.shields.io/badge/-Email-D02929?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a  href="https://www.linkedin.com/in/kaarlarax/"  target="_blank"><img  src="https://img.shields.io/badge/-LinkedIn-D02929?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -13,6 +11,7 @@
 <img align="right" alt="GIF" src="maeva.gif" width="400" height="400" />
 
 <h2>About me</h2>
+
 <ul>
   <li>🗯️ 20 years</li> 
   <li>🇲🇽 Mexican</li>
@@ -24,20 +23,21 @@
   <li>📱 TechLover</li>
   <li>🗣️ English and Spanish</li>
   <li>🤓 Nerdy but cool </li>
-  <li>🧩 Like Rubik's cubes </li>
-  <li>📷 Love photography and videography </li>
+  <li>🏐 Like Volleyball </li>
+  <li>📘 Love reading and wacth movies </li>
 <ul>
+
 <h2>I'm currently</h2>
+
 <ul>
   <li>🥖 Learning French</li>
   <li>☁️ Learning AWS</li>
   <li>🐋 Learning Docker</li>
   <li>🐍 Learning Python</li>
   <li>📹 Creating Content </li>
-</ul>
-  
-<h2>Programming Languages and Technologies I know</h2>
+</ul> 
 
+<h2>Programming Languages and Technologies I know</h2>
 <a  href="#"><img  src="https://img.shields.io/badge/-C++-0D1117?style=rounded-square&logo=cplusplus&logoColor=D02929"></a>
 <a  href="#"><img  src="https://img.shields.io/badge/-C Sharp-0D1117?style=rounded-square&logo=csharp&logoColor=D02929"></a>
 <a  href="#"><img  src="https://img.shields.io/badge/-C-0D1117?style=rounded-square&logo=c&logoColor=D02929"></a>
@@ -55,7 +55,6 @@
 <a  href="#"><img  src="https://img.shields.io/badge/Amazon%20AWS-0D1117?style=rounded-square&logo=amazon-aws&logoColor=D02929"></a>
   <a  href="#"><img  src="https://img.shields.io/badge/-Raspberry%20Pi-0D1117?style=rounded-square&logo=Raspberry-Pi&logoColor=D02929"></a>
 
-  
 <h2>Programming Languages and Technologies I want to learn</h2>
 <a  href="#"><img  src="https://img.shields.io/badge/-JavaScript-0D1117?style=rounded-square&logo=javascript&logoColor=D02929"></a>
 <a  href="#"><img  src="https://img.shields.io/badge/-TypeScript-0D1117?style=rounded-square&logo=typescript&logoColor=D02929"></a>

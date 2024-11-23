@@ -98,5 +98,5 @@
 </div>
 <br/>
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=MaeMazcort&style=flat-square&color=D02929" alt="Visitors Badge"/>
+<img src="https://komarev.com/ghpvc/?username=KaarLarax&style=flat-square&color=D02929" alt="Visitors Badge"/>
 </p>

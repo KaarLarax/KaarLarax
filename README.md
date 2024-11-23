@@ -27,7 +27,6 @@
   <li>🧩 Like Rubik's cubes </li>
   <li>📷 Love photography and videography </li>
 <ul>
-  
 <h2>I'm currently</h2>
 <ul>
   <li>🥖 Learning French</li>

@@ -19,7 +19,7 @@
   <li>🏐 Like Volleyball </li>
   <li>📘 Love reading and watch movies </li>
 <ul>
-<h2>I'm currently</h2>
+<h2 align="left">I'm currently</h2>
 
 <ul>
   <li>🥖 Learning French</li>

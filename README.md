@@ -7,7 +7,7 @@
 <a  href="https://www.instagram.com/kaarlarax/"  target="_blank"><img  src="https://img.shields.io/badge/-Instagram-D02929?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a  href="https://www.youtube.com/@KaarLarax"  target="_blank"><img  src="https://img.shields.io/badge/YouTube-D02929?style=for-the-badge&logo=youtube&logoColor=white"></a>
 </p>
-<h2>About me</h2>
+<h2 align="left"> About me</h2>
 <ul>
   <li>🗯️ 20 years</li> 
   <li>🇲🇽 Mexican</li>

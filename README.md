@@ -1,6 +1,6 @@
 <h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px">
     Hey!, it's Carlos Lara </h1>
-<h3 aling="center">Bachelor's Degree in Computer Science | Love learning new things <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTI3cWE4anJhenJlbjhyb2F4bDg2OHVkN3c0bDF1YnR5NG82dHV5NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3vR85PnGsBwu1PFK/giphy.gif"alt="computer" width="50"></h3>
+<h3 aling="right">Bachelor's Degree in Computer Science | Love learning new things <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTI3cWE4anJhenJlbjhyb2F4bDg2OHVkN3c0bDF1YnR5NG82dHV5NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3vR85PnGsBwu1PFK/giphy.gif"alt="computer" width="50"></h3>
 <p align="center">
     <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=kaarlara.contacto@gmail.com" target="_blank"><img
             src="https://img.shields.io/badge/-Email-D02929?style=for-the-badge&logo=gmail&logoColor=white"></a>

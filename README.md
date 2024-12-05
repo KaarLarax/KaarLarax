@@ -1,5 +1,5 @@
 <h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px"> Hey!, it's Carlos Lara </h1>
-<h3 aling="center">Computer Systems Engineering | Love learning new things <img src="https://thumbs.gfycat.com/AcrobaticMatureGazelle.webp" alt="computer" width="35"> </h3>
+<h3 aling="center">Bachelor's Degree in Computer Science | Love learning new things <img src="https://giphy.com/gifs/merzaesthetics-latam-merzaestheticslatam-mexslatam-expertsummitlatam-TFWrswSumZxfnXZ1Po" alt="computer" width="35"> </h3>
 
 <p align="center">
 <a  href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=kaarlara.contacto@gmail.com"  target="_blank"><img  src="https://img.shields.io/badge/-Email-D02929?style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -7,9 +7,6 @@
 <a  href="https://www.instagram.com/kaarlarax/"  target="_blank"><img  src="https://img.shields.io/badge/-Instagram-D02929?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a  href="https://www.youtube.com/@KaarLarax"  target="_blank"><img  src="https://img.shields.io/badge/YouTube-D02929?style=for-the-badge&logo=youtube&logoColor=white"></a>
 </p>
-
-<img align="right" alt="GIF" src="maeva.gif" width="400" height="400" />
-
 <h2>About me</h2>
 
 <ul>

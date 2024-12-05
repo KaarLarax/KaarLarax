@@ -26,9 +26,9 @@
 </ul>
 <h2>I'm currently</h2>
 <ul>
-    <li>🥖 Learning French</li>
-    <li>☁️ Learning AWS</li>
-    <li>🐋 Learning Docker</li>
+    <li>🥖 Learning English</li>
+    <li>☁️ Learning Web programming</li>
+    <li>🐋 Learning Swift</li>
     <li>🐍 Learning Python</li>
     <li>📹 Creating Content</li>
 </ul>

@@ -37,26 +37,12 @@
 <h2>Programming Languages and Technologies I know</h2>
 <a href="#"><img
         src="https://img.shields.io/badge/-C++-0D1117?style=rounded-square&logo=cplusplus&logoColor=D02929"></a>
-<a href="#"><img
-        src="https://img.shields.io/badge/-C Sharp-0D1117?style=rounded-square&logo=csharp&logoColor=D02929"></a>
 <a href="#"><img src="https://img.shields.io/badge/-C-0D1117?style=rounded-square&logo=c&logoColor=D02929"></a>
 <a href="#"><img src="https://img.shields.io/badge/-Java-0D1117?style=rounded-square&logo=java&logoColor=D02929"></a>
 <a href="#"><img
         src="https://img.shields.io/badge/-Python-0D1117?style=rounded-square&logo=python&logoColor=D02929"></a>
-<a href="#"><img src="https://img.shields.io/badge/-PHP-0D1117?style=rounded-square&logo=php&logoColor=D02929"></a>
-<a href="#"><img src="https://img.shields.io/badge/.NET-%230D1117.svg?style=rounded-square&logo=.net&logoColor=D02929"></a>
 <a href="#"><img
         src="https://img.shields.io/badge/Markdown-%230D1117.svg?style=rounded-square&logo=markdown&logoColor=D02929"></a>
-<a href="#"><img src="https://img.shields.io/badge/-HTML5-0D1117?style=rounded-square&logo=html5&logoColor=D02929"></a>
-<a href="#"><img src="https://img.shields.io/badge/-CSS3-0D1117?style=rounded-square&logo=css3&logoColor=D02929"></a>
-<a href="#"><img src="https://img.shields.io/badge/Git-0D1117.svg?style=rounded-square&logo=git&logoColor=D02929"></a>
-<a href="#"><img src="https://img.shields.io/badge/GitHub-0D1117.svg?style=rounded-square&logo=github&logoColor=D02929"></a>
-<a href="#"><img
-        src="https://img.shields.io/badge/Slack-0D1117.svg?style=rounded-square&logo=slack&logoColor=D02929"></a>
-<a href="#"><img
-        src="https://img.shields.io/badge/-Docker-0D1117?style=rounded-square&logo=docker&logoColor=D02929"></a>
-<a href="#"><img
-        src="https://img.shields.io/badge/Amazon%20AWS-0D1117?style=rounded-square&logo=amazon-aws&logoColor=D02929"></a>
 <a href="#"><img
         src="https://img.shields.io/badge/-Raspberry%20Pi-0D1117?style=rounded-square&logo=Raspberry-Pi&logoColor=D02929"></a>
 
@@ -82,6 +68,16 @@
         src="https://img.shields.io/badge/-Digital%20Ocean-0D1117?style=rounded-square&logo=digitalocean&logoColor=D02929"></a>
 <a href="#"><img
         src="https://img.shields.io/badge/-Kubernetes-0D1117?style=rounded-square&logo=kubernetes&logoColor=D02929"></a>
+<a href="#"><img src="https://img.shields.io/badge/-HTML5-0D1117?style=rounded-square&logo=html5&logoColor=D02929"></a>
+<a href="#"><img src="https://img.shields.io/badge/-CSS3-0D1117?style=rounded-square&logo=css3&logoColor=D02929"></a>
+<a href="#"><img src="https://img.shields.io/badge/Git-0D1117.svg?style=rounded-square&logo=git&logoColor=D02929"></a>
+<a href="#"><img src="https://img.shields.io/badge/GitHub-0D1117.svg?style=rounded-square&logo=github&logoColor=D02929"></a>
+<a href="#"><img
+        src="https://img.shields.io/badge/Slack-0D1117.svg?style=rounded-square&logo=slack&logoColor=D02929"></a>
+<a href="#"><img
+        src="https://img.shields.io/badge/-Docker-0D1117?style=rounded-square&logo=docker&logoColor=D02929"></a>
+<a href="#"><img
+        src="https://img.shields.io/badge/Amazon%20AWS-0D1117?style=rounded-square&logo=amazon-aws&logoColor=D02929"></a>
 
 <h2>Enviroment, IDEs and Tools</h2>
 <a href="#"><img

@@ -49,7 +49,7 @@
         src="https://img.shields.io/badge/MySQL-0D1117.svg?style=rounded-square&logo=mysql&logoColor=800080"></a>
 <a href="#"><img src="https://img.shields.io/badge/GitHub-0D1117.svg?style=rounded-square&logo=github&logoColor=800080"></a>
 <a href="#"><img src="https://img.shields.io/badge/-Code%3A%3ABlocks-0D1117?style=rounded-square&logo=codeigniter&logoColor=800080">
-
+<a href="#"><img src="https://img.shields.io/badge/-CLion-0D1117?style=rounded-square&logo=jetbrains&logoColor=800080">
 <h2>Programming Languages and Technologies I want to learn</h2>
 <a href="#"><img
         src="https://img.shields.io/badge/-JavaScript-0D1117?style=rounded-square&logo=javascript&logoColor=800080"></a>

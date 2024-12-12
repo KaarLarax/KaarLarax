@@ -38,7 +38,7 @@
 <a href="#"><img
         src="https://img.shields.io/badge/-C++-0D1117?style=rounded-square&logo=cplusplus&logoColor=800080"></a>
 <a href="#"><img src="https://img.shields.io/badge/-C-0D1117?style=rounded-square&logo=c&logoColor=800080"></a>
-<a href="#"><img src="https://img.shields.io/badge/-Java-0D1117?style=rounded-square&logo=java&logoColor=800080"></a>
+<a href="#"><img src="https://img.shields.io/badge/-Java-0D1117?style=rounded-square&logo=oracle&logoColor=800080"></a>
 <a href="#"><img
         src="https://img.shields.io/badge/-Python-0D1117?style=rounded-square&logo=python&logoColor=800080"></a>
 <a href="#"><img
@@ -50,8 +50,8 @@
 <a href="#"><img src="https://img.shields.io/badge/GitHub-0D1117.svg?style=rounded-square&logo=github&logoColor=800080"></a>
 <a href="#"><img src="https://img.shields.io/badge/-Code%3A%3ABlocks-0D1117?style=rounded-square&logo=codeblocks&logoColor=800080">
 <a href="#"><img src="https://img.shields.io/badge/-CLion-0D1117?style=rounded-square&logo=clion&logoColor=800080">
-<img src="https://img.shields.io/badge/-MATLAB-0D1117?style=rounded-square&logo=matlab&logoColor=800080">
-<img src="https://img.shields.io/badge/-MPLAB%20X%20IDE-0D1117?style=rounded-square&logo=c&logoColor=800080">
+<a href="#"><img src="https://img.shields.io/badge/-MATLAB-0D1117?style=rounded-square&logo=matlab&logoColor=800080">
+<a href="#"><img src="https://img.shields.io/badge/-MPLAB%20X%20IDE-0D1117?style=rounded-square&logo=c&logoColor=800080">
 <h2>Programming Languages and Technologies I want to learn</h2>
 <a href="#"><img
         src="https://img.shields.io/badge/-JavaScript-0D1117?style=rounded-square&logo=javascript&logoColor=800080"></a>

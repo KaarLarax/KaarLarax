@@ -49,11 +49,7 @@
         src="https://img.shields.io/badge/MySQL-0D1117.svg?style=rounded-square&logo=mysql&logoColor=800080"></a>
 <a href="#"><img src="https://img.shields.io/badge/-Prolog-0D1117?style=rounded-square&logo=prolog&logoColor=800080"></a>
 <a href="#"><img src="https://img.shields.io/badge/GitHub-0D1117.svg?style=rounded-square&logo=github&logoColor=800080"></a>
-<a href="#"><img src="https://img.shields.io/badge/-Code%3A%3ABlocks-0D1117?style=rounded-square&logo=codeblocks&logoColor=800080"></a>
-<a href="#"><img src="https://img.shields.io/badge/-CLion-0D1117?style=rounded-square&logo=clion&logoColor=800080"></a>
-<a href="#"><img src="https://img.shields.io/badge/-MATLAB-0D1117?style=rounded-square&logo=matlab&logoColor=800080"></a>
-<a href="#"><img src="https://img.shields.io/badge/-MPLAB%20X%20IDE-0D1117?style=rounded-square&logo=c&logoColor=800080"></a>
-<a href="#"><img src="https://img.shields.io/badge/-PyCharm-0D1117?style=rounded-square&logo=pycharm&logoColor=800080"></a>
+
 <h2>Programming Languages and Technologies I want to learn</h2>
 <a href="#"><img
         src="https://img.shields.io/badge/-JavaScript-0D1117?style=rounded-square&logo=javascript&logoColor=800080"></a>
@@ -85,8 +81,11 @@
         src="https://img.shields.io/badge/Amazon%20AWS-0D1117?style=rounded-square&logo=amazon-aws&logoColor=800080"></a>
 
 <h2>Enviroment, IDEs and Tools</h2>
-<a href="#"><img
-        src="https://img.shields.io/badge/VS-0D1117.svg?style=rounded-square&logo=visualstudiocode&logoColor=800080"></a>
+<a href="#"><img src="https://img.shields.io/badge/-Code%3A%3ABlocks-0D1117?style=rounded-square&logo=codeblocks&logoColor=800080"></a>
+<a href="#"><img src="https://img.shields.io/badge/-CLion-0D1117?style=rounded-square&logo=clion&logoColor=800080"></a>
+<a href="#"><img src="https://img.shields.io/badge/-MATLAB-0D1117?style=rounded-square&logo=matlab&logoColor=800080"></a>
+<a href="#"><img src="https://img.shields.io/badge/-MPLAB%20X%20IDE-0D1117?style=rounded-square&logo=c&logoColor=800080"></a>
+<a href="#"><img src="https://img.shields.io/badge/-PyCharm-0D1117?style=rounded-square&logo=pycharm&logoColor=800080"></a>
 <a href="#"><img
         src="https://img.shields.io/badge/VSCode-0D1117.svg?style=rounded-square&logo=visualstudiocode&logoColor=800080"></a>
 <a href="#"><img

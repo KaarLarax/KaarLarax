@@ -45,6 +45,9 @@
         src="https://img.shields.io/badge/Markdown-%230D1117.svg?style=rounded-square&logo=markdown&logoColor=800080"></a>
 <a href="#"><img
         src="https://img.shields.io/badge/-Raspberry%20Pi-0D1117?style=rounded-square&logo=Raspberry-Pi&logoColor=800080"></a>
+<a href="#"><img
+        src="https://img.shields.io/badge/MySQL-0D1117.svg?style=rounded-square&logo=mysql&logoColor=800080"></a>
+<a href="#"><img src="https://img.shields.io/badge/GitHub-0D1117.svg?style=rounded-square&logo=github&logoColor=800080"></a>
 
 <h2>Programming Languages and Technologies I want to learn</h2>
 <a href="#"><img
@@ -56,8 +59,6 @@
         src="https://img.shields.io/badge/React-0D1117.svg?style=rounded-square&logo=react&logoColor=800080"></a>
 <a href="#"><img
         src="https://img.shields.io/badge/Flutter-0D1117.svg?style=rounded-square&logo=flutter&logoColor=800080"></a>
-<a href="#"><img
-        src="https://img.shields.io/badge/MySQL-0D1117.svg?style=rounded-square&logo=mysql&logoColor=800080"></a>
 <a href="#"><img
         src="https://img.shields.io/badge/Microsoft Azure-0D1117.svg?style=rounded-square&logo=microsoftazure&logoColor=800080"></a>
 <a href="#"><img
@@ -71,7 +72,6 @@
 <a href="#"><img src="https://img.shields.io/badge/-HTML5-0D1117?style=rounded-square&logo=html5&logoColor=800080"></a>
 <a href="#"><img src="https://img.shields.io/badge/-CSS3-0D1117?style=rounded-square&logo=css3&logoColor=800080"></a>
 <a href="#"><img src="https://img.shields.io/badge/Git-0D1117.svg?style=rounded-square&logo=git&logoColor=800080"></a>
-<a href="#"><img src="https://img.shields.io/badge/GitHub-0D1117.svg?style=rounded-square&logo=github&logoColor=800080"></a>
 <a href="#"><img
         src="https://img.shields.io/badge/Slack-0D1117.svg?style=rounded-square&logo=slack&logoColor=800080"></a>
 <a href="#"><img

@@ -23,7 +23,7 @@
     <li>🗣️ English and Spanish</li>
     <li>🤓 Nerdy but cool</li>
     <li>🏐 Like Volleyball</li>
-    <li>📘 Love reading and watch movies</li>
+    <li>📘 Love reading and watching movies</li>
 </ul>
 <h2>I'm currently</h2>
 <ul>

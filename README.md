@@ -47,7 +47,7 @@
         src="https://img.shields.io/badge/-Raspberry%20Pi-0D1117?style=rounded-square&logo=Raspberry-Pi&logoColor=800080"></a>
 <a href="#"><img
         src="https://img.shields.io/badge/MySQL-0D1117.svg?style=rounded-square&logo=mysql&logoColor=800080"></a>
-<a href="#"><img src="https://img.shields.io/badge/-Prolog-0D1117?style=rounded-square&logo=swiprolog&logoColor=800080"></a>
+<a href="#"><img src="https://img.shields.io/badge/-Prolog-0D1117?style=rounded-square&logo=prolog&logoColor=800080"></a>
 <a href="#"><img src="https://img.shields.io/badge/GitHub-0D1117.svg?style=rounded-square&logo=github&logoColor=800080"></a>
 <a href="#"><img src="https://img.shields.io/badge/-Code%3A%3ABlocks-0D1117?style=rounded-square&logo=codeblocks&logoColor=800080"></a>
 <a href="#"><img src="https://img.shields.io/badge/-CLion-0D1117?style=rounded-square&logo=clion&logoColor=800080"></a>
